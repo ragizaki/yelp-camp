@@ -5,6 +5,32 @@ YelpCamp is a Node.js web application project where users can upload and review 
 ## Live Demo
 
 To use the app, go to [https://cryptic-garden-68428.herokuapp.com/](https://cryptic-garden-68428.herokuapp.com/)
+The app was deployed using [Heroku](https://heroku.com) and uses [Mongo Atlas](https://www.mongodb.com/cloud/atlas)
+
+## Features
+
+<ul>
+  <li>Basic user campground functionality
+    <ul>
+      <li>Create, edit, remove campgrounds</li>
+      <li>Create, edit, and delete reviews on campgrounds</li>
+      <li>Upload multiple campgrounds photos to a post</li>
+      <li>Display campground with marker on a map</li>
+    </ul>
+  </li>
+   <li>Authentication and Authorization
+    <ul>
+      <li>Cannot edit or delete campgrounds and reviews from other users</li>
+      <li>Cannot manage or create campgrounds without being logged in</li>
+    </ul>
+  </li>
+   <li>Map and geolocation functionality
+    <ul>
+      <li>Cluster map on home page showing all the created campgrounds</li>
+      <li>Map on each individual post with a marker on the campground's location</li>
+    </ul>
+  </li>
+</ul>
 
 ## Getting Started
 
