@@ -4,7 +4,7 @@ YelpCamp is a Node.js web application project where users can upload and review 
 
 ## Live Demo
 
-To use the app, go to [https://cryptic-garden-68428.herokuapp.com/](https://cryptic-garden-68428.herokuapp.com/)
+To use the app, go to [https://cryptic-garden-68428.herokuapp.com/](https://cryptic-garden-68428.herokuapp.com/) <br>
 The app was deployed using [Heroku](https://heroku.com) and uses [Mongo Atlas](https://www.mongodb.com/cloud/atlas)
 
 ## Features
