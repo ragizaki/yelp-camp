@@ -45,6 +45,11 @@ git clone https://github.com/ragizaki/yelpcamp.git
 ```bash
 npm install
 ```
+or
+
+```bash
+yarn install
+```
 
 ## Technologies Used
 
